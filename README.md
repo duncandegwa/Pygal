@@ -102,7 +102,7 @@ Next we define a style using the LightenStyle class (alias LS) and base it on a 
 
 Because we don’t need this data series to be labeled, we pass an empty string for the label when we add the data. The resulting chart is shown below:
 
-![Python Projects with the Most Stars on GitHub](C:\Users\ADMIN\Desktop\visualizing-repositories-using-pygal\visualizing.jpeg)
+![Python Projects with the Most Stars on GitHub](\Pygal\visualizing-repositories-using-pygal\visualizing.jpeg)
 
 ### Refining Pygal Charts
 Let’s refine the styling of our chart. We’ll be making a few different customizations, so first restructure the code slightly by creating a configuration object that contains all of our customizations to pass to Bar():
